@@ -82,8 +82,7 @@ main p {
 main img {
     display: block;
     margin: auto;
-    width: 80%;
-    height: 500px;
+    width: 100%;
     padding: 10px;
 }
 
